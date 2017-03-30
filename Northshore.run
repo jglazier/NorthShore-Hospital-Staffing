@@ -1,0 +1,6 @@
+reset;
+option solver minos;
+model Northshore2.mod;
+;
+data Northshore2.dat;
+solve; 	
